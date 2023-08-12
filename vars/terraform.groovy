@@ -1,9 +1,8 @@
 def call() {
     pipeline {
-
         agent {
             node {
-                lable 'workstation'
+                label 'workstation'
             }
         }
         parameters {
