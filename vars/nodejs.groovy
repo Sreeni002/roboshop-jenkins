@@ -9,7 +9,7 @@ def call() {
     options {
       ansiColor('xterm')
     }
-      stags {
+      stages {
         stage('Code Quality') {
           steps {
             sh 'ls -l'
