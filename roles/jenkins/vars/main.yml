@@ -10,6 +10,7 @@ mjobs:
   - { git_repo_url: https://github.com/Sreeni002/shipping.git, job_name: shipping }
   - { git_repo_url: https://github.com/Sreeni002/payment.git, job_name: payment }
   - { git_repo_url: https://github.com/Sreeni002/dispatch.git, job_name: dispatch }
+  - { git_repo_url: https://github.com/Sreeni002/frontend.git, job_name: frontend }
 
 
 
