@@ -24,7 +24,7 @@ def call() {
         }
         stage('Run Unit Test cases') {
           steps {
-            sh 'Run Unit Test cases'
+            sh 'echo Run Unit Test cases'
           }
         }
         stage('CheckMarx SAST Scan') {
